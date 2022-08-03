@@ -1,0 +1,35 @@
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {.unnumbered}
+
+Text Data Cleaning, Package Development, Visualization
+and Application for Forensic Natural Language Processing Timescale Text Data Recovery and Analysis
+
+Truman State University
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
